@@ -4,6 +4,7 @@
 3. Javascript
 - Angular
 - Vue JS
+- React JS
 4. PHP
 - Laravel
 - CI
